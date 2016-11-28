@@ -19,10 +19,10 @@
     "type": "git",
     "url": "git://github.com/360manu/pimatic-mythermostat.git"
   },
-  "version": "0.0.2",
+  "version": "0.0.2.1",
   "dependencies": {},
   "peerDependencies": {
-    "pimatic": "0.8.* && >=0.8.31"
+    "pimatic": ">=0.8.31 <1.0.0"
   },
   "configSchema": "MyThermostat-config-schema.coffee",
   "engines": {
